@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Heladera",
+    "price": 50000,
+    "thumbnail": "https://electroluxar.vtexassets.com/arquivos/ids/159945/heladera-no-frost-electrolux-dfn3000p-plata-265lts-_Detalhe1.png?v=637541009901930000",
+    "id": 1
+  },
+  {
+    "title": "Lavarropas",
+    "price": 30000,
+    "thumbnail": "https://whirlpoolarg.vteximg.com.br/arquivos/ids/162858/01-min.jpg?v=637821804700400000",
+    "id": 2
+  },
+  {
+    "title": "Ventilador",
+    "price": 6000,
+    "thumbnail": "https://images.fravega.com/f1000/b664dd11e6ba5c6b6e448556bb9b3b3d.jpg",
+    "id": 3
+  }
+]
